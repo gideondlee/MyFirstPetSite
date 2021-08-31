@@ -1,0 +1,42 @@
+.topnav{
+    background-color:lightgray;
+}
+nav div{
+    background-color:rgb(75, 75, 75);
+    margin: auto;
+    display: inline-block;
+    padding: 30px;
+    color: white;
+}
+.left{
+    width: 29%;
+    float:left;
+    height: 1000px;
+    border: 30px, solid black;
+}
+.right{
+    width: 70%;
+    float: right;
+}
+.Myles{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.topleft{
+    margin: 8px;
+    padding: 8px;
+}
+.bottomleft{
+    padding: 5px;
+    display: block;
+    font-size: 20px;
+    float: left;
+    margin: 30px;
+}
+.catimage2{
+    width: 40%;
+    height: 20%;
+    float:left;
+    padding: 20px;
+}
